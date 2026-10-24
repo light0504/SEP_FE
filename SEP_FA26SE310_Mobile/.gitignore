@@ -1,0 +1,40 @@
+# Expo / React Native local output
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+build/
+coverage/
+*.tsbuildinfo
+*.log
+
+# Local environment and signing files
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+*.local
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+*.jks
+credentials.json
+google-services.json
+GoogleService-Info.plist
+.gradle/
+Pods/
+DerivedData/
+local.properties
+*.apk
+*.aab
+*.ipa
+
+# Editor / OS files
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini

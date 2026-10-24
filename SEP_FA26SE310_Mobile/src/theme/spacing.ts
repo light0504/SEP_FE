@@ -1,0 +1,15 @@
+export const spacing = {
+  xs: 4,
+  sm: 8,
+  md: 12,
+  lg: 16,
+  xl: 22,
+  xxl: 28,
+};
+
+export const radius = {
+  sm: 10,
+  md: 15,
+  lg: 20,
+  xl: 24,
+};

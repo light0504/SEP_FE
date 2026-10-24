@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SeatChain",
+    "slug": "seatchain-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F5F7F4"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.seatchain.mobile"
+    },
+    "android": {
+      "package": "com.seatchain.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F7F4"
+      }
+    }
+  }
+}
